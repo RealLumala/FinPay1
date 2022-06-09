@@ -1,1 +1,1 @@
-A simple gaming lottery.
+A simple NFT project.
